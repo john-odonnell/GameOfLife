@@ -1,0 +1,9 @@
+# ignore test files
+boardtest.cpp
+rendertest.cpp
+
+# ignore .vscode settings
+.vscode/
+
+# ignore dSYM directories
+**.dSYM/
