@@ -1,5 +1,4 @@
 # Conway's Game of Life
----
 ## C++ implementation of the classic Game of Life
 
 Uses SDL2 to provide a rudimentary GUI
