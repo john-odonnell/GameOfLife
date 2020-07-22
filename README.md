@@ -1,7 +1,7 @@
 # Conway's Game of Life
 ## C++ implementation of the classic Game of Life
 
-Uses SDL2 to provide a rudimentary GUI
+Uses SDL2 to provide a rudimentary GUI<br/>
 Usage:
 ```
 g++ -o gol golboard.cpp main.cpp -l SDL2
